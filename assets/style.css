@@ -1,0 +1,27 @@
+.olive {
+    background-color: #A3A847;
+}
+
+.bluegray {
+    background-color: #558776;
+}
+
+.darkolive {
+    background-color: #7F8B52;
+}
+
+.beige {
+    background-color: #EAE2B6;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #558776;
+}
+
+.btn-small:hover {
+    background-color: #558776;
+}
